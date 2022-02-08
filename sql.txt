@@ -1,0 +1,4 @@
+select a.codcli, a.data, a.valor, a.datavenc, a.tipo, a.parcela, a.pedido, a.valorpag, a.datapag, b.razao_social from movcli a, clientes b where a.codcli = :mcodcli and a.valor > coalesce(a.valorpag, 0,00) and a.datavenc < :dataatual and a.codcli = b.codcli order by a.datavenc, a.pedido
+
+#para gerar o valor em aberto no periodo por vendedor
+select b.nome, sum(a.valor - coalesce(a.valorpag,0,00)) as Atrasado from movcli a, vendedores b, clientes c where a.codcli = c.codcli and c.vendedor = b.codven and coalesce(a.valorpag, 0,00) < a.valor and a.datavenc between :mdata1 and :mdata2 group by b.nome order by b.nome

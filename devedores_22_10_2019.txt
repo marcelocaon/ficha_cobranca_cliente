@@ -1,0 +1,690 @@
+
+***ROSENI DA ROSA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 23/08/2017 Valor: R$ 363.96 Valor já pago: R$ 218.21
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 30/08/2017 Valor: R$ 363.96 Valor já pago: R$ 0
+Código: 2690 Razão Social: DULCILENE DA ROSA Fantasia: None Data Vencimento: 27/09/2019 Valor: R$ 115.44 Valor já pago: R$ None
+Código: 4103 Razão Social: EDVALDO FARIAS SANTOS Fantasia: EDVALDO FARIAS SANTOS Data Vencimento: 04/09/2019 Valor: R$ 101.26 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 30/08/2019 Valor: R$ 282.69 Valor já pago: R$ 254.89
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 13/09/2019 Valor: R$ 780.59 Valor já pago: R$ 0
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 18/09/2019 Valor: R$ 893.69 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 04/10/2019 Valor: R$ 682.61 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 11/10/2019 Valor: R$ 914.62 Valor já pago: R$ None
+Código: 4153 Razão Social: ROSANI SZMOLDA MIERO Fantasia: MERCEARIA DO ALEMAO Data Vencimento: 04/09/2019 Valor: R$ 130.77 Valor já pago: R$ None
+Código: 1034 Razão Social: TEREZINHA PEREIRA BERNADES Fantasia: MERCEARIA PERSEVERANCA Data Vencimento: 23/05/2017 Valor: R$ 225.44 Valor já pago: R$ None
+Código: 6696 Razão Social: VANICE GRACIELE ALVES FERREIRA Fantasia: MERCEARIA FAMILIA Data Vencimento: 25/09/2019 Valor: R$ 381.17 Valor já pago: R$ None
+
+***ADENOR SILVA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 2759 Razão Social: KARINA MORAIS Fantasia: MINI MERCADO E PANIFICADORA ROSA Data Vencimento: 29/06/2016 Valor: R$ 382.0 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 28/01/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/02/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/03/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/05/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/06/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 2400 Razão Social: MIRIAN SANTELINO MENDES RIBEIRO Fantasia: MINI MERCADO MIRIAN Data Vencimento: 21/10/2019 Valor: R$ 113.7 Valor já pago: R$ None
+
+***VAGNER PERESSIN***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6700 Razão Social: DOUGLAS DA SILVA SIMAO Fantasia: CALDO CATARINA Data Vencimento: 03/09/2019 Valor: R$ 65.3 Valor já pago: R$ None
+
+***ALDI LUIZ GHISLERI***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 06/03/2019 Valor: R$ 386.89 Valor já pago: R$ None
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 17/04/2019 Valor: R$ 725.9 Valor já pago: R$ None
+Código: 4585 Razão Social: GENI ALVES DOS SANTOS PELELK Fantasia: MINIMERCADO VISTA ALEGRE Data Vencimento: 16/10/2019 Valor: R$ 253.15 Valor já pago: R$ None
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 29/07/2019 Valor: R$ 277.12 Valor já pago: R$ 0
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 01/08/2019 Valor: R$ 616.33 Valor já pago: R$ 0
+
+***INADIMPLENCIA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5226 Razão Social: CESAR JOAQUIM TOSATTI Fantasia: AGROPECUARIA TOSATTI Data Vencimento: 09/05/2017 Valor: R$ 831.74 Valor já pago: R$ None
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 25/01/2018 Valor: R$ 264.0 Valor já pago: R$ 0
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 07/02/2018 Valor: R$ 341.2 Valor já pago: R$ 0
+Código: 4738 Razão Social: COTA'S BAR LTDA ME Fantasia: PETISCARIA BOGONI Data Vencimento: 29/08/2017 Valor: R$ 423.81 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 23/11/2017 Valor: R$ 161.97 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 30/11/2017 Valor: R$ 62.0 Valor já pago: R$ None
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 15/12/2017 Valor: R$ 273.8 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 29/12/2017 Valor: R$ 242.29 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 03/01/2018 Valor: R$ 496.04 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 133.24 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 143.95 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 18/11/2016 Valor: R$ 491.67 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 25/11/2016 Valor: R$ 380.36 Valor já pago: R$ None
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 03/01/2017 Valor: R$ 151.54 Valor já pago: R$ None
+Código: 4548 Razão Social: JLG COMERCIO DE GENEROS ALIMENTICIOS LTD Fantasia: MERCADO ESTORIL Data Vencimento: 19/07/2017 Valor: R$ 176.3 Valor já pago: R$ None
+Código: 5063 Razão Social: JPF COMÉRCIO DE CARNES EIRELI ME Fantasia: PATRAO DA CARNE Data Vencimento: 17/04/2017 Valor: R$ 340.81 Valor já pago: R$ 0
+Código: 5771 Razão Social: KUKAS BAR Fantasia: RIOS BAR Data Vencimento: 30/11/2017 Valor: R$ 67.16 Valor já pago: R$ None
+Código: 5067 Razão Social: MARCOS MARTINS AZARIAS Fantasia: ANTIGO ALEXASANDRO MACHADO Data Vencimento: 10/01/2018 Valor: R$ 439.7 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 13/09/2016 Valor: R$ 156.8 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 27/12/2016 Valor: R$ 1919.03 Valor já pago: R$ None
+Código: 5501 Razão Social: SABRINE ALVES ME Fantasia: PANIFICADORA ALVES Data Vencimento: 20/10/2017 Valor: R$ 436.04 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 03/01/2017 Valor: R$ 123.51 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 24/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 31/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+
+***MARISTELA EMMENDORFER***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 190.16 Valor já pago: R$ 176.21
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 179.0 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 15/05/2018 Valor: R$ 186.05 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 16/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 17/05/2018 Valor: R$ 190.16 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 30/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 08/06/2018 Valor: R$ 266.15 Valor já pago: R$ 0
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/02/2018 Valor: R$ 349.79 Valor já pago: R$ 254.58
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 23/02/2018 Valor: R$ 419.67 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 02/03/2018 Valor: R$ 260.63 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 07/03/2018 Valor: R$ 248.12 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 08/03/2018 Valor: R$ 241.11 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 14/03/2018 Valor: R$ 364.48 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 15/03/2018 Valor: R$ 447.92 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 16/03/2018 Valor: R$ 349.95 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 05/04/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/08/2018 Valor: R$ 37.18 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 14/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 21/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 28/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 30/03/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 06/04/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 29/12/2017 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 05/01/2018 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 10/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 17/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 24/01/2018 Valor: R$ 241.71 Valor já pago: R$ None
+Código: 6541 Razão Social: TALITA PEREIRA LIMA Fantasia: TALITA PEREIRA LIMA Data Vencimento: 12/09/2018 Valor: R$ 176.4 Valor já pago: R$ 76.4
+
+***CLIENTES INATIVOS***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/03/2018 Valor: R$ 68.41 Valor já pago: R$ None
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/05/2018 Valor: R$ 1114.65 Valor já pago: R$ None
+Código: 296 Razão Social: BERNARDINO INDALICIO DA SILVA ME  Fantasia: MERCADO BERNADINHO Data Vencimento: 06/02/2018 Valor: R$ 23.04 Valor já pago: R$ None
+Código: 5567 Razão Social: GESILAINE AMARAL LUIZ Fantasia: None Data Vencimento: 26/07/2017 Valor: R$ 365.3 Valor já pago: R$ None
+Código: 5678 Razão Social: MERCADO ILHA DO SOL LTDA ME Fantasia: MERCADO ILHA DO SOL Data Vencimento: 18/04/2018 Valor: R$ 98.94 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 31/05/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 12/06/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 6472 Razão Social: MINI MERCADO PAGPOUCO EIRELI Fantasia: MINI MERCADO PAGPOUCO Data Vencimento: 03/11/2018 Valor: R$ 118.8 Valor já pago: R$ None
+Código: 5543 Razão Social: VANDOIR ROGERIO ARRUDA MOREIRA ROCHA Fantasia: MERCEARIA DO CHICO Data Vencimento: 19/07/2017 Valor: R$ 912.81 Valor já pago: R$ 312
+
+***MICHELE CRISTINA FORTES SILVEIRA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6590 Razão Social: ROSIMARA MIRANDA Fantasia: MERCADO E ACOUGUE MIRANDA Data Vencimento: 19/09/2018 Valor: R$ 224.1 Valor já pago: R$ None
+
+***ROSENI DA ROSA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 23/08/2017 Valor: R$ 363.96 Valor já pago: R$ 218.21
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 30/08/2017 Valor: R$ 363.96 Valor já pago: R$ 0
+Código: 2690 Razão Social: DULCILENE DA ROSA Fantasia: None Data Vencimento: 27/09/2019 Valor: R$ 115.44 Valor já pago: R$ None
+Código: 4103 Razão Social: EDVALDO FARIAS SANTOS Fantasia: EDVALDO FARIAS SANTOS Data Vencimento: 04/09/2019 Valor: R$ 101.26 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 30/08/2019 Valor: R$ 282.69 Valor já pago: R$ 254.89
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 13/09/2019 Valor: R$ 780.59 Valor já pago: R$ 0
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 18/09/2019 Valor: R$ 893.69 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 04/10/2019 Valor: R$ 682.61 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 11/10/2019 Valor: R$ 914.62 Valor já pago: R$ None
+Código: 4153 Razão Social: ROSANI SZMOLDA MIERO Fantasia: MERCEARIA DO ALEMAO Data Vencimento: 04/09/2019 Valor: R$ 130.77 Valor já pago: R$ None
+Código: 1034 Razão Social: TEREZINHA PEREIRA BERNADES Fantasia: MERCEARIA PERSEVERANCA Data Vencimento: 23/05/2017 Valor: R$ 225.44 Valor já pago: R$ None
+Código: 6696 Razão Social: VANICE GRACIELE ALVES FERREIRA Fantasia: MERCEARIA FAMILIA Data Vencimento: 25/09/2019 Valor: R$ 381.17 Valor já pago: R$ None
+
+***ADENOR SILVA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 2759 Razão Social: KARINA MORAIS Fantasia: MINI MERCADO E PANIFICADORA ROSA Data Vencimento: 29/06/2016 Valor: R$ 382.0 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 28/01/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/02/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/03/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/05/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/06/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 2400 Razão Social: MIRIAN SANTELINO MENDES RIBEIRO Fantasia: MINI MERCADO MIRIAN Data Vencimento: 21/10/2019 Valor: R$ 113.7 Valor já pago: R$ None
+
+***VAGNER PERESSIN***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6700 Razão Social: DOUGLAS DA SILVA SIMAO Fantasia: CALDO CATARINA Data Vencimento: 03/09/2019 Valor: R$ 65.3 Valor já pago: R$ None
+
+***ALDI LUIZ GHISLERI***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 06/03/2019 Valor: R$ 386.89 Valor já pago: R$ None
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 17/04/2019 Valor: R$ 725.9 Valor já pago: R$ None
+Código: 4585 Razão Social: GENI ALVES DOS SANTOS PELELK Fantasia: MINIMERCADO VISTA ALEGRE Data Vencimento: 16/10/2019 Valor: R$ 253.15 Valor já pago: R$ None
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 29/07/2019 Valor: R$ 277.12 Valor já pago: R$ 0
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 01/08/2019 Valor: R$ 616.33 Valor já pago: R$ 0
+
+***INADIMPLENCIA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5226 Razão Social: CESAR JOAQUIM TOSATTI Fantasia: AGROPECUARIA TOSATTI Data Vencimento: 09/05/2017 Valor: R$ 831.74 Valor já pago: R$ None
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 25/01/2018 Valor: R$ 264.0 Valor já pago: R$ 0
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 07/02/2018 Valor: R$ 341.2 Valor já pago: R$ 0
+Código: 4738 Razão Social: COTA'S BAR LTDA ME Fantasia: PETISCARIA BOGONI Data Vencimento: 29/08/2017 Valor: R$ 423.81 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 23/11/2017 Valor: R$ 161.97 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 30/11/2017 Valor: R$ 62.0 Valor já pago: R$ None
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 15/12/2017 Valor: R$ 273.8 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 29/12/2017 Valor: R$ 242.29 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 03/01/2018 Valor: R$ 496.04 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 133.24 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 143.95 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 18/11/2016 Valor: R$ 491.67 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 25/11/2016 Valor: R$ 380.36 Valor já pago: R$ None
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 03/01/2017 Valor: R$ 151.54 Valor já pago: R$ None
+Código: 4548 Razão Social: JLG COMERCIO DE GENEROS ALIMENTICIOS LTD Fantasia: MERCADO ESTORIL Data Vencimento: 19/07/2017 Valor: R$ 176.3 Valor já pago: R$ None
+Código: 5063 Razão Social: JPF COMÉRCIO DE CARNES EIRELI ME Fantasia: PATRAO DA CARNE Data Vencimento: 17/04/2017 Valor: R$ 340.81 Valor já pago: R$ 0
+Código: 5771 Razão Social: KUKAS BAR Fantasia: RIOS BAR Data Vencimento: 30/11/2017 Valor: R$ 67.16 Valor já pago: R$ None
+Código: 5067 Razão Social: MARCOS MARTINS AZARIAS Fantasia: ANTIGO ALEXASANDRO MACHADO Data Vencimento: 10/01/2018 Valor: R$ 439.7 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 13/09/2016 Valor: R$ 156.8 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 27/12/2016 Valor: R$ 1919.03 Valor já pago: R$ None
+Código: 5501 Razão Social: SABRINE ALVES ME Fantasia: PANIFICADORA ALVES Data Vencimento: 20/10/2017 Valor: R$ 436.04 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 03/01/2017 Valor: R$ 123.51 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 24/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 31/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+
+***MARISTELA EMMENDORFER***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 190.16 Valor já pago: R$ 176.21
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 179.0 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 15/05/2018 Valor: R$ 186.05 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 16/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 17/05/2018 Valor: R$ 190.16 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 30/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 08/06/2018 Valor: R$ 266.15 Valor já pago: R$ 0
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/02/2018 Valor: R$ 349.79 Valor já pago: R$ 254.58
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 23/02/2018 Valor: R$ 419.67 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 02/03/2018 Valor: R$ 260.63 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 07/03/2018 Valor: R$ 248.12 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 08/03/2018 Valor: R$ 241.11 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 14/03/2018 Valor: R$ 364.48 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 15/03/2018 Valor: R$ 447.92 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 16/03/2018 Valor: R$ 349.95 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 05/04/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/08/2018 Valor: R$ 37.18 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 14/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 21/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 28/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 30/03/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 06/04/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 29/12/2017 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 05/01/2018 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 10/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 17/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 24/01/2018 Valor: R$ 241.71 Valor já pago: R$ None
+Código: 6541 Razão Social: TALITA PEREIRA LIMA Fantasia: TALITA PEREIRA LIMA Data Vencimento: 12/09/2018 Valor: R$ 176.4 Valor já pago: R$ 76.4
+
+***CLIENTES INATIVOS***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/03/2018 Valor: R$ 68.41 Valor já pago: R$ None
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/05/2018 Valor: R$ 1114.65 Valor já pago: R$ None
+Código: 296 Razão Social: BERNARDINO INDALICIO DA SILVA ME  Fantasia: MERCADO BERNADINHO Data Vencimento: 06/02/2018 Valor: R$ 23.04 Valor já pago: R$ None
+Código: 5567 Razão Social: GESILAINE AMARAL LUIZ Fantasia: None Data Vencimento: 26/07/2017 Valor: R$ 365.3 Valor já pago: R$ None
+Código: 5678 Razão Social: MERCADO ILHA DO SOL LTDA ME Fantasia: MERCADO ILHA DO SOL Data Vencimento: 18/04/2018 Valor: R$ 98.94 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 31/05/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 12/06/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 6472 Razão Social: MINI MERCADO PAGPOUCO EIRELI Fantasia: MINI MERCADO PAGPOUCO Data Vencimento: 03/11/2018 Valor: R$ 118.8 Valor já pago: R$ None
+Código: 5543 Razão Social: VANDOIR ROGERIO ARRUDA MOREIRA ROCHA Fantasia: MERCEARIA DO CHICO Data Vencimento: 19/07/2017 Valor: R$ 912.81 Valor já pago: R$ 312
+
+***MICHELE CRISTINA FORTES SILVEIRA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6590 Razão Social: ROSIMARA MIRANDA Fantasia: MERCADO E ACOUGUE MIRANDA Data Vencimento: 19/09/2018 Valor: R$ 224.1 Valor já pago: R$ None
+
+***ROSENI DA ROSA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 23/08/2017 Valor: R$ 363.96 Valor já pago: R$ 218.21
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 30/08/2017 Valor: R$ 363.96 Valor já pago: R$ 0
+Código: 2690 Razão Social: DULCILENE DA ROSA Fantasia: None Data Vencimento: 27/09/2019 Valor: R$ 115.44 Valor já pago: R$ None
+Código: 4103 Razão Social: EDVALDO FARIAS SANTOS Fantasia: EDVALDO FARIAS SANTOS Data Vencimento: 04/09/2019 Valor: R$ 101.26 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 30/08/2019 Valor: R$ 282.69 Valor já pago: R$ 254.89
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 13/09/2019 Valor: R$ 780.59 Valor já pago: R$ 0
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 18/09/2019 Valor: R$ 893.69 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 04/10/2019 Valor: R$ 682.61 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 11/10/2019 Valor: R$ 914.62 Valor já pago: R$ None
+Código: 4153 Razão Social: ROSANI SZMOLDA MIERO Fantasia: MERCEARIA DO ALEMAO Data Vencimento: 04/09/2019 Valor: R$ 130.77 Valor já pago: R$ None
+Código: 1034 Razão Social: TEREZINHA PEREIRA BERNADES Fantasia: MERCEARIA PERSEVERANCA Data Vencimento: 23/05/2017 Valor: R$ 225.44 Valor já pago: R$ None
+Código: 6696 Razão Social: VANICE GRACIELE ALVES FERREIRA Fantasia: MERCEARIA FAMILIA Data Vencimento: 25/09/2019 Valor: R$ 381.17 Valor já pago: R$ None
+
+***ADENOR SILVA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 2759 Razão Social: KARINA MORAIS Fantasia: MINI MERCADO E PANIFICADORA ROSA Data Vencimento: 29/06/2016 Valor: R$ 382.0 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 28/01/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/02/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/03/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/05/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/06/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 2400 Razão Social: MIRIAN SANTELINO MENDES RIBEIRO Fantasia: MINI MERCADO MIRIAN Data Vencimento: 21/10/2019 Valor: R$ 113.7 Valor já pago: R$ None
+
+***VAGNER PERESSIN***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6700 Razão Social: DOUGLAS DA SILVA SIMAO Fantasia: CALDO CATARINA Data Vencimento: 03/09/2019 Valor: R$ 65.3 Valor já pago: R$ None
+
+***ALDI LUIZ GHISLERI***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 06/03/2019 Valor: R$ 386.89 Valor já pago: R$ None
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 17/04/2019 Valor: R$ 725.9 Valor já pago: R$ None
+Código: 4585 Razão Social: GENI ALVES DOS SANTOS PELELK Fantasia: MINIMERCADO VISTA ALEGRE Data Vencimento: 16/10/2019 Valor: R$ 253.15 Valor já pago: R$ None
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 29/07/2019 Valor: R$ 277.12 Valor já pago: R$ 0
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 01/08/2019 Valor: R$ 616.33 Valor já pago: R$ 0
+
+***INADIMPLENCIA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5226 Razão Social: CESAR JOAQUIM TOSATTI Fantasia: AGROPECUARIA TOSATTI Data Vencimento: 09/05/2017 Valor: R$ 831.74 Valor já pago: R$ None
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 25/01/2018 Valor: R$ 264.0 Valor já pago: R$ 0
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 07/02/2018 Valor: R$ 341.2 Valor já pago: R$ 0
+Código: 4738 Razão Social: COTA'S BAR LTDA ME Fantasia: PETISCARIA BOGONI Data Vencimento: 29/08/2017 Valor: R$ 423.81 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 23/11/2017 Valor: R$ 161.97 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 30/11/2017 Valor: R$ 62.0 Valor já pago: R$ None
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 15/12/2017 Valor: R$ 273.8 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 29/12/2017 Valor: R$ 242.29 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 03/01/2018 Valor: R$ 496.04 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 133.24 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 143.95 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 18/11/2016 Valor: R$ 491.67 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 25/11/2016 Valor: R$ 380.36 Valor já pago: R$ None
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 03/01/2017 Valor: R$ 151.54 Valor já pago: R$ None
+Código: 4548 Razão Social: JLG COMERCIO DE GENEROS ALIMENTICIOS LTD Fantasia: MERCADO ESTORIL Data Vencimento: 19/07/2017 Valor: R$ 176.3 Valor já pago: R$ None
+Código: 5063 Razão Social: JPF COMÉRCIO DE CARNES EIRELI ME Fantasia: PATRAO DA CARNE Data Vencimento: 17/04/2017 Valor: R$ 340.81 Valor já pago: R$ 0
+Código: 5771 Razão Social: KUKAS BAR Fantasia: RIOS BAR Data Vencimento: 30/11/2017 Valor: R$ 67.16 Valor já pago: R$ None
+Código: 5067 Razão Social: MARCOS MARTINS AZARIAS Fantasia: ANTIGO ALEXASANDRO MACHADO Data Vencimento: 10/01/2018 Valor: R$ 439.7 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 13/09/2016 Valor: R$ 156.8 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 27/12/2016 Valor: R$ 1919.03 Valor já pago: R$ None
+Código: 5501 Razão Social: SABRINE ALVES ME Fantasia: PANIFICADORA ALVES Data Vencimento: 20/10/2017 Valor: R$ 436.04 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 03/01/2017 Valor: R$ 123.51 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 24/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 31/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+
+***MARISTELA EMMENDORFER***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 190.16 Valor já pago: R$ 176.21
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 179.0 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 15/05/2018 Valor: R$ 186.05 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 16/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 17/05/2018 Valor: R$ 190.16 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 30/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 08/06/2018 Valor: R$ 266.15 Valor já pago: R$ 0
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/02/2018 Valor: R$ 349.79 Valor já pago: R$ 254.58
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 23/02/2018 Valor: R$ 419.67 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 02/03/2018 Valor: R$ 260.63 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 07/03/2018 Valor: R$ 248.12 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 08/03/2018 Valor: R$ 241.11 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 14/03/2018 Valor: R$ 364.48 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 15/03/2018 Valor: R$ 447.92 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 16/03/2018 Valor: R$ 349.95 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 05/04/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/08/2018 Valor: R$ 37.18 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 14/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 21/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 28/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 30/03/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 06/04/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 29/12/2017 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 05/01/2018 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 10/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 17/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 24/01/2018 Valor: R$ 241.71 Valor já pago: R$ None
+Código: 6541 Razão Social: TALITA PEREIRA LIMA Fantasia: TALITA PEREIRA LIMA Data Vencimento: 12/09/2018 Valor: R$ 176.4 Valor já pago: R$ 76.4
+
+***CLIENTES INATIVOS***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/03/2018 Valor: R$ 68.41 Valor já pago: R$ None
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/05/2018 Valor: R$ 1114.65 Valor já pago: R$ None
+Código: 296 Razão Social: BERNARDINO INDALICIO DA SILVA ME  Fantasia: MERCADO BERNADINHO Data Vencimento: 06/02/2018 Valor: R$ 23.04 Valor já pago: R$ None
+Código: 5567 Razão Social: GESILAINE AMARAL LUIZ Fantasia: None Data Vencimento: 26/07/2017 Valor: R$ 365.3 Valor já pago: R$ None
+Código: 5678 Razão Social: MERCADO ILHA DO SOL LTDA ME Fantasia: MERCADO ILHA DO SOL Data Vencimento: 18/04/2018 Valor: R$ 98.94 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 31/05/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 12/06/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 6472 Razão Social: MINI MERCADO PAGPOUCO EIRELI Fantasia: MINI MERCADO PAGPOUCO Data Vencimento: 03/11/2018 Valor: R$ 118.8 Valor já pago: R$ None
+Código: 5543 Razão Social: VANDOIR ROGERIO ARRUDA MOREIRA ROCHA Fantasia: MERCEARIA DO CHICO Data Vencimento: 19/07/2017 Valor: R$ 912.81 Valor já pago: R$ 312
+
+***MICHELE CRISTINA FORTES SILVEIRA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6590 Razão Social: ROSIMARA MIRANDA Fantasia: MERCADO E ACOUGUE MIRANDA Data Vencimento: 19/09/2018 Valor: R$ 224.1 Valor já pago: R$ None
+
+***ROSENI DA ROSA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 23/08/2017 Valor: R$ 363.96 Valor já pago: R$ 218.21
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 30/08/2017 Valor: R$ 363.96 Valor já pago: R$ 0
+Código: 2690 Razão Social: DULCILENE DA ROSA Fantasia: None Data Vencimento: 27/09/2019 Valor: R$ 115.44 Valor já pago: R$ None
+Código: 4103 Razão Social: EDVALDO FARIAS SANTOS Fantasia: EDVALDO FARIAS SANTOS Data Vencimento: 04/09/2019 Valor: R$ 101.26 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 30/08/2019 Valor: R$ 282.69 Valor já pago: R$ 254.89
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 13/09/2019 Valor: R$ 780.59 Valor já pago: R$ 0
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 18/09/2019 Valor: R$ 893.69 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 04/10/2019 Valor: R$ 682.61 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 11/10/2019 Valor: R$ 914.62 Valor já pago: R$ None
+Código: 4153 Razão Social: ROSANI SZMOLDA MIERO Fantasia: MERCEARIA DO ALEMAO Data Vencimento: 04/09/2019 Valor: R$ 130.77 Valor já pago: R$ None
+Código: 1034 Razão Social: TEREZINHA PEREIRA BERNADES Fantasia: MERCEARIA PERSEVERANCA Data Vencimento: 23/05/2017 Valor: R$ 225.44 Valor já pago: R$ None
+Código: 6696 Razão Social: VANICE GRACIELE ALVES FERREIRA Fantasia: MERCEARIA FAMILIA Data Vencimento: 25/09/2019 Valor: R$ 381.17 Valor já pago: R$ None
+
+***ADENOR SILVA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 2759 Razão Social: KARINA MORAIS Fantasia: MINI MERCADO E PANIFICADORA ROSA Data Vencimento: 29/06/2016 Valor: R$ 382.0 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 28/01/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/02/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/03/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/05/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/06/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 2400 Razão Social: MIRIAN SANTELINO MENDES RIBEIRO Fantasia: MINI MERCADO MIRIAN Data Vencimento: 21/10/2019 Valor: R$ 113.7 Valor já pago: R$ None
+
+***VAGNER PERESSIN***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6700 Razão Social: DOUGLAS DA SILVA SIMAO Fantasia: CALDO CATARINA Data Vencimento: 03/09/2019 Valor: R$ 65.3 Valor já pago: R$ None
+
+***ALDI LUIZ GHISLERI***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 06/03/2019 Valor: R$ 386.89 Valor já pago: R$ None
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 17/04/2019 Valor: R$ 725.9 Valor já pago: R$ None
+Código: 4585 Razão Social: GENI ALVES DOS SANTOS PELELK Fantasia: MINIMERCADO VISTA ALEGRE Data Vencimento: 16/10/2019 Valor: R$ 253.15 Valor já pago: R$ None
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 29/07/2019 Valor: R$ 277.12 Valor já pago: R$ 0
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 01/08/2019 Valor: R$ 616.33 Valor já pago: R$ 0
+
+***INADIMPLENCIA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5226 Razão Social: CESAR JOAQUIM TOSATTI Fantasia: AGROPECUARIA TOSATTI Data Vencimento: 09/05/2017 Valor: R$ 831.74 Valor já pago: R$ None
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 25/01/2018 Valor: R$ 264.0 Valor já pago: R$ 0
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 07/02/2018 Valor: R$ 341.2 Valor já pago: R$ 0
+Código: 4738 Razão Social: COTA'S BAR LTDA ME Fantasia: PETISCARIA BOGONI Data Vencimento: 29/08/2017 Valor: R$ 423.81 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 23/11/2017 Valor: R$ 161.97 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 30/11/2017 Valor: R$ 62.0 Valor já pago: R$ None
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 15/12/2017 Valor: R$ 273.8 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 29/12/2017 Valor: R$ 242.29 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 03/01/2018 Valor: R$ 496.04 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 133.24 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 143.95 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 18/11/2016 Valor: R$ 491.67 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 25/11/2016 Valor: R$ 380.36 Valor já pago: R$ None
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 03/01/2017 Valor: R$ 151.54 Valor já pago: R$ None
+Código: 4548 Razão Social: JLG COMERCIO DE GENEROS ALIMENTICIOS LTD Fantasia: MERCADO ESTORIL Data Vencimento: 19/07/2017 Valor: R$ 176.3 Valor já pago: R$ None
+Código: 5063 Razão Social: JPF COMÉRCIO DE CARNES EIRELI ME Fantasia: PATRAO DA CARNE Data Vencimento: 17/04/2017 Valor: R$ 340.81 Valor já pago: R$ 0
+Código: 5771 Razão Social: KUKAS BAR Fantasia: RIOS BAR Data Vencimento: 30/11/2017 Valor: R$ 67.16 Valor já pago: R$ None
+Código: 5067 Razão Social: MARCOS MARTINS AZARIAS Fantasia: ANTIGO ALEXASANDRO MACHADO Data Vencimento: 10/01/2018 Valor: R$ 439.7 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 13/09/2016 Valor: R$ 156.8 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 27/12/2016 Valor: R$ 1919.03 Valor já pago: R$ None
+Código: 5501 Razão Social: SABRINE ALVES ME Fantasia: PANIFICADORA ALVES Data Vencimento: 20/10/2017 Valor: R$ 436.04 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 03/01/2017 Valor: R$ 123.51 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 24/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 31/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+
+***MARISTELA EMMENDORFER***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 190.16 Valor já pago: R$ 176.21
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 179.0 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 15/05/2018 Valor: R$ 186.05 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 16/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 17/05/2018 Valor: R$ 190.16 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 30/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 08/06/2018 Valor: R$ 266.15 Valor já pago: R$ 0
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/02/2018 Valor: R$ 349.79 Valor já pago: R$ 254.58
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 23/02/2018 Valor: R$ 419.67 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 02/03/2018 Valor: R$ 260.63 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 07/03/2018 Valor: R$ 248.12 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 08/03/2018 Valor: R$ 241.11 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 14/03/2018 Valor: R$ 364.48 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 15/03/2018 Valor: R$ 447.92 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 16/03/2018 Valor: R$ 349.95 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 05/04/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/08/2018 Valor: R$ 37.18 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 14/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 21/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 28/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 30/03/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 06/04/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 29/12/2017 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 05/01/2018 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 10/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 17/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 24/01/2018 Valor: R$ 241.71 Valor já pago: R$ None
+Código: 6541 Razão Social: TALITA PEREIRA LIMA Fantasia: TALITA PEREIRA LIMA Data Vencimento: 12/09/2018 Valor: R$ 176.4 Valor já pago: R$ 76.4
+
+***CLIENTES INATIVOS***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/03/2018 Valor: R$ 68.41 Valor já pago: R$ None
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/05/2018 Valor: R$ 1114.65 Valor já pago: R$ None
+Código: 296 Razão Social: BERNARDINO INDALICIO DA SILVA ME  Fantasia: MERCADO BERNADINHO Data Vencimento: 06/02/2018 Valor: R$ 23.04 Valor já pago: R$ None
+Código: 5567 Razão Social: GESILAINE AMARAL LUIZ Fantasia: None Data Vencimento: 26/07/2017 Valor: R$ 365.3 Valor já pago: R$ None
+Código: 5678 Razão Social: MERCADO ILHA DO SOL LTDA ME Fantasia: MERCADO ILHA DO SOL Data Vencimento: 18/04/2018 Valor: R$ 98.94 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 31/05/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 12/06/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 6472 Razão Social: MINI MERCADO PAGPOUCO EIRELI Fantasia: MINI MERCADO PAGPOUCO Data Vencimento: 03/11/2018 Valor: R$ 118.8 Valor já pago: R$ None
+Código: 5543 Razão Social: VANDOIR ROGERIO ARRUDA MOREIRA ROCHA Fantasia: MERCEARIA DO CHICO Data Vencimento: 19/07/2017 Valor: R$ 912.81 Valor já pago: R$ 312
+
+***MICHELE CRISTINA FORTES SILVEIRA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6590 Razão Social: ROSIMARA MIRANDA Fantasia: MERCADO E ACOUGUE MIRANDA Data Vencimento: 19/09/2018 Valor: R$ 224.1 Valor já pago: R$ None
+
+***ROSENI DA ROSA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 23/08/2017 Valor: R$ 363.96 Valor já pago: R$ 218.21
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 30/08/2017 Valor: R$ 363.96 Valor já pago: R$ 0
+Código: 2690 Razão Social: DULCILENE DA ROSA Fantasia: None Data Vencimento: 27/09/2019 Valor: R$ 115.44 Valor já pago: R$ None
+Código: 4103 Razão Social: EDVALDO FARIAS SANTOS Fantasia: EDVALDO FARIAS SANTOS Data Vencimento: 04/09/2019 Valor: R$ 101.26 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 30/08/2019 Valor: R$ 282.69 Valor já pago: R$ 254.89
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 13/09/2019 Valor: R$ 780.59 Valor já pago: R$ 0
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 18/09/2019 Valor: R$ 893.69 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 04/10/2019 Valor: R$ 682.61 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 11/10/2019 Valor: R$ 914.62 Valor já pago: R$ None
+Código: 4153 Razão Social: ROSANI SZMOLDA MIERO Fantasia: MERCEARIA DO ALEMAO Data Vencimento: 04/09/2019 Valor: R$ 130.77 Valor já pago: R$ None
+Código: 1034 Razão Social: TEREZINHA PEREIRA BERNADES Fantasia: MERCEARIA PERSEVERANCA Data Vencimento: 23/05/2017 Valor: R$ 225.44 Valor já pago: R$ None
+Código: 6696 Razão Social: VANICE GRACIELE ALVES FERREIRA Fantasia: MERCEARIA FAMILIA Data Vencimento: 25/09/2019 Valor: R$ 381.17 Valor já pago: R$ None
+
+***ADENOR SILVA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 2759 Razão Social: KARINA MORAIS Fantasia: MINI MERCADO E PANIFICADORA ROSA Data Vencimento: 29/06/2016 Valor: R$ 382.0 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 28/01/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/02/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/03/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/05/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/06/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 2400 Razão Social: MIRIAN SANTELINO MENDES RIBEIRO Fantasia: MINI MERCADO MIRIAN Data Vencimento: 21/10/2019 Valor: R$ 113.7 Valor já pago: R$ None
+
+***VAGNER PERESSIN***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6700 Razão Social: DOUGLAS DA SILVA SIMAO Fantasia: CALDO CATARINA Data Vencimento: 03/09/2019 Valor: R$ 65.3 Valor já pago: R$ None
+
+***ALDI LUIZ GHISLERI***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 06/03/2019 Valor: R$ 386.89 Valor já pago: R$ None
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 17/04/2019 Valor: R$ 725.9 Valor já pago: R$ None
+Código: 4585 Razão Social: GENI ALVES DOS SANTOS PELELK Fantasia: MINIMERCADO VISTA ALEGRE Data Vencimento: 16/10/2019 Valor: R$ 253.15 Valor já pago: R$ None
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 29/07/2019 Valor: R$ 277.12 Valor já pago: R$ 0
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 01/08/2019 Valor: R$ 616.33 Valor já pago: R$ 0
+
+***INADIMPLENCIA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5226 Razão Social: CESAR JOAQUIM TOSATTI Fantasia: AGROPECUARIA TOSATTI Data Vencimento: 09/05/2017 Valor: R$ 831.74 Valor já pago: R$ None
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 25/01/2018 Valor: R$ 264.0 Valor já pago: R$ 0
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 07/02/2018 Valor: R$ 341.2 Valor já pago: R$ 0
+Código: 4738 Razão Social: COTA'S BAR LTDA ME Fantasia: PETISCARIA BOGONI Data Vencimento: 29/08/2017 Valor: R$ 423.81 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 23/11/2017 Valor: R$ 161.97 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 30/11/2017 Valor: R$ 62.0 Valor já pago: R$ None
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 15/12/2017 Valor: R$ 273.8 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 29/12/2017 Valor: R$ 242.29 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 03/01/2018 Valor: R$ 496.04 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 133.24 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 143.95 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 18/11/2016 Valor: R$ 491.67 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 25/11/2016 Valor: R$ 380.36 Valor já pago: R$ None
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 03/01/2017 Valor: R$ 151.54 Valor já pago: R$ None
+Código: 4548 Razão Social: JLG COMERCIO DE GENEROS ALIMENTICIOS LTD Fantasia: MERCADO ESTORIL Data Vencimento: 19/07/2017 Valor: R$ 176.3 Valor já pago: R$ None
+Código: 5063 Razão Social: JPF COMÉRCIO DE CARNES EIRELI ME Fantasia: PATRAO DA CARNE Data Vencimento: 17/04/2017 Valor: R$ 340.81 Valor já pago: R$ 0
+Código: 5771 Razão Social: KUKAS BAR Fantasia: RIOS BAR Data Vencimento: 30/11/2017 Valor: R$ 67.16 Valor já pago: R$ None
+Código: 5067 Razão Social: MARCOS MARTINS AZARIAS Fantasia: ANTIGO ALEXASANDRO MACHADO Data Vencimento: 10/01/2018 Valor: R$ 439.7 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 13/09/2016 Valor: R$ 156.8 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 27/12/2016 Valor: R$ 1919.03 Valor já pago: R$ None
+Código: 5501 Razão Social: SABRINE ALVES ME Fantasia: PANIFICADORA ALVES Data Vencimento: 20/10/2017 Valor: R$ 436.04 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 03/01/2017 Valor: R$ 123.51 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 24/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 31/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+
+***MARISTELA EMMENDORFER***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 190.16 Valor já pago: R$ 176.21
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 179.0 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 15/05/2018 Valor: R$ 186.05 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 16/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 17/05/2018 Valor: R$ 190.16 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 30/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 08/06/2018 Valor: R$ 266.15 Valor já pago: R$ 0
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/02/2018 Valor: R$ 349.79 Valor já pago: R$ 254.58
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 23/02/2018 Valor: R$ 419.67 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 02/03/2018 Valor: R$ 260.63 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 07/03/2018 Valor: R$ 248.12 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 08/03/2018 Valor: R$ 241.11 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 14/03/2018 Valor: R$ 364.48 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 15/03/2018 Valor: R$ 447.92 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 16/03/2018 Valor: R$ 349.95 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 05/04/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/08/2018 Valor: R$ 37.18 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 14/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 21/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 28/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 30/03/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 06/04/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 29/12/2017 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 05/01/2018 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 10/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 17/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 24/01/2018 Valor: R$ 241.71 Valor já pago: R$ None
+Código: 6541 Razão Social: TALITA PEREIRA LIMA Fantasia: TALITA PEREIRA LIMA Data Vencimento: 12/09/2018 Valor: R$ 176.4 Valor já pago: R$ 76.4
+
+***CLIENTES INATIVOS***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/03/2018 Valor: R$ 68.41 Valor já pago: R$ None
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/05/2018 Valor: R$ 1114.65 Valor já pago: R$ None
+Código: 296 Razão Social: BERNARDINO INDALICIO DA SILVA ME  Fantasia: MERCADO BERNADINHO Data Vencimento: 06/02/2018 Valor: R$ 23.04 Valor já pago: R$ None
+Código: 5567 Razão Social: GESILAINE AMARAL LUIZ Fantasia: None Data Vencimento: 26/07/2017 Valor: R$ 365.3 Valor já pago: R$ None
+Código: 5678 Razão Social: MERCADO ILHA DO SOL LTDA ME Fantasia: MERCADO ILHA DO SOL Data Vencimento: 18/04/2018 Valor: R$ 98.94 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 31/05/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 12/06/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 6472 Razão Social: MINI MERCADO PAGPOUCO EIRELI Fantasia: MINI MERCADO PAGPOUCO Data Vencimento: 03/11/2018 Valor: R$ 118.8 Valor já pago: R$ None
+Código: 5543 Razão Social: VANDOIR ROGERIO ARRUDA MOREIRA ROCHA Fantasia: MERCEARIA DO CHICO Data Vencimento: 19/07/2017 Valor: R$ 912.81 Valor já pago: R$ 312
+
+***MICHELE CRISTINA FORTES SILVEIRA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6590 Razão Social: ROSIMARA MIRANDA Fantasia: MERCADO E ACOUGUE MIRANDA Data Vencimento: 19/09/2018 Valor: R$ 224.1 Valor já pago: R$ None
+
+***ROSENI DA ROSA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 23/08/2017 Valor: R$ 363.96 Valor já pago: R$ 218.21
+Código: 5045 Razão Social: CARLOS PEREIRA DA SILVA Fantasia: MERCADO JS II Data Vencimento: 30/08/2017 Valor: R$ 363.96 Valor já pago: R$ 0
+Código: 2690 Razão Social: DULCILENE DA ROSA Fantasia: None Data Vencimento: 27/09/2019 Valor: R$ 115.44 Valor já pago: R$ None
+Código: 4103 Razão Social: EDVALDO FARIAS SANTOS Fantasia: EDVALDO FARIAS SANTOS Data Vencimento: 04/09/2019 Valor: R$ 101.26 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 30/08/2019 Valor: R$ 282.69 Valor já pago: R$ 254.89
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 13/09/2019 Valor: R$ 780.59 Valor já pago: R$ 0
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 18/09/2019 Valor: R$ 893.69 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 04/10/2019 Valor: R$ 682.61 Valor já pago: R$ None
+Código: 2716 Razão Social: GERSON OLIVEIRA DE JESUS Fantasia: GERSON OLIVEIRA DE JESUS Data Vencimento: 11/10/2019 Valor: R$ 914.62 Valor já pago: R$ None
+Código: 4153 Razão Social: ROSANI SZMOLDA MIERO Fantasia: MERCEARIA DO ALEMAO Data Vencimento: 04/09/2019 Valor: R$ 130.77 Valor já pago: R$ None
+Código: 1034 Razão Social: TEREZINHA PEREIRA BERNADES Fantasia: MERCEARIA PERSEVERANCA Data Vencimento: 23/05/2017 Valor: R$ 225.44 Valor já pago: R$ None
+Código: 6696 Razão Social: VANICE GRACIELE ALVES FERREIRA Fantasia: MERCEARIA FAMILIA Data Vencimento: 25/09/2019 Valor: R$ 381.17 Valor já pago: R$ None
+
+***ADENOR SILVA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 2759 Razão Social: KARINA MORAIS Fantasia: MINI MERCADO E PANIFICADORA ROSA Data Vencimento: 29/06/2016 Valor: R$ 382.0 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 28/01/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/02/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/03/2019 Valor: R$ 101.55 Valor já pago: R$ 0
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/05/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 3945 Razão Social: MARCO AURELIO CAMPOS Fantasia: MR LANCHES Data Vencimento: 26/06/2019 Valor: R$ 101.55 Valor já pago: R$ None
+Código: 2400 Razão Social: MIRIAN SANTELINO MENDES RIBEIRO Fantasia: MINI MERCADO MIRIAN Data Vencimento: 21/10/2019 Valor: R$ 113.7 Valor já pago: R$ None
+
+***VAGNER PERESSIN***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6700 Razão Social: DOUGLAS DA SILVA SIMAO Fantasia: CALDO CATARINA Data Vencimento: 03/09/2019 Valor: R$ 65.3 Valor já pago: R$ None
+
+***ALDI LUIZ GHISLERI***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 06/03/2019 Valor: R$ 386.89 Valor já pago: R$ None
+Código: 6672 Razão Social: AILTON DE PADUA Fantasia: MERCADO PAGA POUCO Data Vencimento: 17/04/2019 Valor: R$ 725.9 Valor já pago: R$ None
+Código: 4585 Razão Social: GENI ALVES DOS SANTOS PELELK Fantasia: MINIMERCADO VISTA ALEGRE Data Vencimento: 16/10/2019 Valor: R$ 253.15 Valor já pago: R$ None
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 29/07/2019 Valor: R$ 277.12 Valor já pago: R$ 0
+Código: 5266 Razão Social: SUPERMERCADO SOUZA & SOUZA LTDA ME Fantasia: SUPERMERCADO SOUZA E SOUZA Data Vencimento: 01/08/2019 Valor: R$ 616.33 Valor já pago: R$ 0
+
+***INADIMPLENCIA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5226 Razão Social: CESAR JOAQUIM TOSATTI Fantasia: AGROPECUARIA TOSATTI Data Vencimento: 09/05/2017 Valor: R$ 831.74 Valor já pago: R$ None
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 25/01/2018 Valor: R$ 264.0 Valor já pago: R$ 0
+Código: 6103 Razão Social: CLAITON JOSE DE SOUZA PEIXOTO Fantasia: MINI MERCADO D LOURDES Data Vencimento: 07/02/2018 Valor: R$ 341.2 Valor já pago: R$ 0
+Código: 4738 Razão Social: COTA'S BAR LTDA ME Fantasia: PETISCARIA BOGONI Data Vencimento: 29/08/2017 Valor: R$ 423.81 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 23/11/2017 Valor: R$ 161.97 Valor já pago: R$ None
+Código: 5848 Razão Social: DANIEL ERNANDES SCHNEIDER Fantasia: QUIOSQUE FLOR DA ILHA Data Vencimento: 30/11/2017 Valor: R$ 62.0 Valor já pago: R$ None
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 15/12/2017 Valor: R$ 273.8 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 29/12/2017 Valor: R$ 242.29 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 03/01/2018 Valor: R$ 496.04 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 133.24 Valor já pago: R$ 0
+Código: 4041 Razão Social: EVERTON KALBUSCH EIRELI ME Fantasia: MERCADO SANTA MARTA Data Vencimento: 26/01/2018 Valor: R$ 143.95 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 18/11/2016 Valor: R$ 491.67 Valor já pago: R$ 0
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 25/11/2016 Valor: R$ 380.36 Valor já pago: R$ None
+Código: 3583 Razão Social: FABIO RICARDO PASSARELLO - ME Fantasia: PANIFICADORA E CONFEITARIA PAO DI ITALIA Data Vencimento: 03/01/2017 Valor: R$ 151.54 Valor já pago: R$ None
+Código: 4548 Razão Social: JLG COMERCIO DE GENEROS ALIMENTICIOS LTD Fantasia: MERCADO ESTORIL Data Vencimento: 19/07/2017 Valor: R$ 176.3 Valor já pago: R$ None
+Código: 5063 Razão Social: JPF COMÉRCIO DE CARNES EIRELI ME Fantasia: PATRAO DA CARNE Data Vencimento: 17/04/2017 Valor: R$ 340.81 Valor já pago: R$ 0
+Código: 5771 Razão Social: KUKAS BAR Fantasia: RIOS BAR Data Vencimento: 30/11/2017 Valor: R$ 67.16 Valor já pago: R$ None
+Código: 5067 Razão Social: MARCOS MARTINS AZARIAS Fantasia: ANTIGO ALEXASANDRO MACHADO Data Vencimento: 10/01/2018 Valor: R$ 439.7 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 13/09/2016 Valor: R$ 156.8 Valor já pago: R$ None
+Código: 4417 Razão Social: MARCOS ROBERTO DOS SANTOS Fantasia: AÇOUGUE INGLESES Data Vencimento: 27/12/2016 Valor: R$ 1919.03 Valor já pago: R$ None
+Código: 5501 Razão Social: SABRINE ALVES ME Fantasia: PANIFICADORA ALVES Data Vencimento: 20/10/2017 Valor: R$ 436.04 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 03/01/2017 Valor: R$ 123.51 Valor já pago: R$ 0
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 24/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+Código: 4709 Razão Social: SUELI LEAL CASTILHO Fantasia: MERCADO CRISTO REI Data Vencimento: 31/01/2017 Valor: R$ 377.13 Valor já pago: R$ None
+
+***MARISTELA EMMENDORFER***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 190.16 Valor já pago: R$ 176.21
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 10/05/2018 Valor: R$ 179.0 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 15/05/2018 Valor: R$ 186.05 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 16/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 17/05/2018 Valor: R$ 190.16 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 23/05/2018 Valor: R$ 347.97 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 30/05/2018 Valor: R$ 129.8 Valor já pago: R$ None
+Código: 3713 Razão Social: ADRIANA PEREIRA DA SILVA MONTAGNA - ME Fantasia: MERCADO MONTAGNA Data Vencimento: 08/06/2018 Valor: R$ 266.15 Valor já pago: R$ 0
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/02/2018 Valor: R$ 349.79 Valor já pago: R$ 254.58
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 23/02/2018 Valor: R$ 419.67 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 02/03/2018 Valor: R$ 260.63 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 07/03/2018 Valor: R$ 248.12 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 08/03/2018 Valor: R$ 241.11 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 14/03/2018 Valor: R$ 364.48 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 15/03/2018 Valor: R$ 447.92 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 16/03/2018 Valor: R$ 349.95 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 22/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/03/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 05/04/2018 Valor: R$ 309.17 Valor já pago: R$ None
+Código: 6055 Razão Social: ALAIDE DE SOUZA PACHECO Fantasia: COMERCIO D L Data Vencimento: 29/08/2018 Valor: R$ 37.18 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 14/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 21/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 28/03/2018 Valor: R$ 219.62 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 30/03/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 6007 Razão Social: JUCIELY AMANÇO OLIVEIRA SOUZA Fantasia: CONVENIENCIA VIVALI Data Vencimento: 06/04/2018 Valor: R$ 135.93 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 29/12/2017 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 05/01/2018 Valor: R$ 315.13 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 10/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 17/01/2018 Valor: R$ 375.54 Valor já pago: R$ None
+Código: 5303 Razão Social: LIDIANE ROSALINA GOMM Fantasia: MERCEARIA CARDOSO Data Vencimento: 24/01/2018 Valor: R$ 241.71 Valor já pago: R$ None
+Código: 6541 Razão Social: TALITA PEREIRA LIMA Fantasia: TALITA PEREIRA LIMA Data Vencimento: 12/09/2018 Valor: R$ 176.4 Valor já pago: R$ 76.4
+
+***CLIENTES INATIVOS***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/03/2018 Valor: R$ 68.41 Valor já pago: R$ None
+Código: 5918 Razão Social: AUTO POSTO BATISTENSE LTDA Fantasia: AUTO POSTO BATISTENSE Data Vencimento: 29/05/2018 Valor: R$ 1114.65 Valor já pago: R$ None
+Código: 296 Razão Social: BERNARDINO INDALICIO DA SILVA ME  Fantasia: MERCADO BERNADINHO Data Vencimento: 06/02/2018 Valor: R$ 23.04 Valor já pago: R$ None
+Código: 5567 Razão Social: GESILAINE AMARAL LUIZ Fantasia: None Data Vencimento: 26/07/2017 Valor: R$ 365.3 Valor já pago: R$ None
+Código: 5678 Razão Social: MERCADO ILHA DO SOL LTDA ME Fantasia: MERCADO ILHA DO SOL Data Vencimento: 18/04/2018 Valor: R$ 98.94 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 31/05/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 805 Razão Social: MINI MERCADO E ACOUGUE ADSUL LTDA-ME Fantasia: MINI MERCADO ADSUL Data Vencimento: 12/06/2019 Valor: R$ 251.15 Valor já pago: R$ None
+Código: 6472 Razão Social: MINI MERCADO PAGPOUCO EIRELI Fantasia: MINI MERCADO PAGPOUCO Data Vencimento: 03/11/2018 Valor: R$ 118.8 Valor já pago: R$ None
+Código: 5543 Razão Social: VANDOIR ROGERIO ARRUDA MOREIRA ROCHA Fantasia: MERCEARIA DO CHICO Data Vencimento: 19/07/2017 Valor: R$ 912.81 Valor já pago: R$ 312
+
+***MICHELE CRISTINA FORTES SILVEIRA***
+Seguem abaixo os clientes em atraso com visita programada para hoje:
+Código: 6590 Razão Social: ROSIMARA MIRANDA Fantasia: MERCADO E ACOUGUE MIRANDA Data Vencimento: 19/09/2018 Valor: R$ 224.1 Valor já pago: R$ None
